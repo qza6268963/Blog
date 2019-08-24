@@ -5,5 +5,6 @@
 ## 深入学习JavaScript系列
 
 [1.JS数据类型的初步了解](https://github.com/qza6268963/Blog/issues/2)
+
 [2.JS中数据类型的检测方法及其特点 ](https://github.com/qza6268963/Blog/issues/3)
 
