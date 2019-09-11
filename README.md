@@ -12,4 +12,4 @@
 
 [4.作用域、作用域链、执行上下文、执行上下文栈、变量对象、活动对象全了解](https://github.com/qza6268963/Blog/issues/5)
 
-[4.变量提升与函数提升](https://github.com/qza6268963/Blog/issues/6)
+[5.变量提升与函数提升](https://github.com/qza6268963/Blog/issues/6)
