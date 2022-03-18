@@ -5,3 +5,4 @@
 ##  [深度学习JavaScript系列](https://github.com/qza6268963/Blog/issues/7)
 ##  Javascript的设计模式
 ##  手写Javascript系列
+##  日常问题记录
